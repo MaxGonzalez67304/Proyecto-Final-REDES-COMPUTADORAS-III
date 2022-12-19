@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Usuarios>
+   <datos>
+      <id>1</id>
+      <nombre>us1@hotmail.com</nombre>
+      <password>8797768</password>
+   </datos>
+
+   <datos>
+      <id>2</id>
+      <nombre>us2@gmail.com</nombre>
+      <password>contrasena</password>
+   </datos>
+
+   <datos>
+      <id>3</id>
+      <nombre>kratos@outlook.com</nombre>
+      <password>drimon</password>
+   </datos>
+
+   <datos>
+      <id>4</id>
+      <nombre>dioses@hotmail.com</nombre>
+      <password>150622</password>
+   </datos>
+
+   <datos>
+      <id>5</id>
+      <nombre>vacio@yahoo.com</nombre>
+      <password>singwitmi</password>
+   </datos>
+   
+</Usuarios>

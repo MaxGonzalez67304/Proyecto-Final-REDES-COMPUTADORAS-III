@@ -1,0 +1,34 @@
+<div class="main-container">
+    <br>
+    <div class="card-columns">
+        <div *ngFor="let video of misVideos">
+            <div class="card" *ngIf="video.id.videoId">
+                <img [src]="video.snippet.thumbnails.medium.url" class="card-img-top" alt="Card image cap" />
+                <div class="card-body">
+                    <h5 class="card-title">{{ video.snippet.title }}</h5>
+                    <p class="card-text">{{ video.snippet.description }}</p>
+                    <button class="btn btn-outline-primary" (click)="detalleVideo(video.id.videoId)">
+                        Ver video
+                    </button>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">Publicado: {{ video.snippet.publishedAt | date }}</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <iframe width="465" height="315" [src]="videoId | youtubePipe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" (click)="cerrarModal()">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

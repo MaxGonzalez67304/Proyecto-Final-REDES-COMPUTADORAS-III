@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Profesores>
+   <datos>
+      <id>1</id>
+      <nombre>Juan Martinez</nombre>
+      <turno>Matutino</turno>
+   </datos>
+
+   <datos>
+      <id>2</id>
+      <nombre>Brayan Santana</nombre>
+      <turno>Matutino</turno>
+   </datos>
+
+   <datos>
+      <id>3</id>
+      <nombre>Ernesto Gonzalez</nombre>
+      <turno>Vespertino</turno>
+   </datos>
+
+   <datos>
+      <id>4</id>
+      <nombre>Carlos Luevano</nombre>
+      <turno>Matutino</turno>
+   </datos>
+
+   <datos>
+      <id>5</id>
+      <nombre>Silvia Rodriguez</nombre>
+      <turno>Vespertino</turno>
+   </datos>
+</Profesores>

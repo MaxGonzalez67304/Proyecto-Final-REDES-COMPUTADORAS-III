@@ -1,0 +1,22 @@
+ 
+<div>
+  <table class="table table-striped hover" id="datatableexample">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Palabra</th>
+        <th>Fecha de publicación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of xmlItems; let i = index">    
+        <td>{{item.id}}</td>    
+        <td>{{item.nombre}}</td>    
+        <td>{{item.fecha}}</td>  
+      </tr>   
+    </tbody>
+  </table>
+
+</div>
+
+

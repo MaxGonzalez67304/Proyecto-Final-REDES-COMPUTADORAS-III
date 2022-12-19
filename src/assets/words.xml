@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<Palabras>    
+   <detalle>    
+      <id>1</id>    
+      <nombre>Adiós</nombre>
+      <fecha>14 de diciembre de 2022</fecha>    
+      <url>https://youtu.be/AaK0PLBQ0Ck</url>    
+   </detalle>    
+   <detalle>    
+      <id>2</id>    
+      <nombre>Buenas tardes</nombre>  
+      <fecha>14 de diciembre de 2022</fecha>     
+      <url>https://youtu.be/4Sd6whX3ODQ</url>    
+   </detalle>    
+   <detalle>    
+      <id>3</id>    
+      <nombre>Buen día</nombre> 
+      <fecha>14 de diciembre de 2022</fecha>      
+      <url>https://youtu.be/ipXzFzufyXA</url>    
+   </detalle>    
+   <detalle>    
+      <id>4</id>    
+      <nombre>Como estás</nombre>
+      <fecha>14 de diciembre de 2022</fecha>          
+      <url>https://youtu.be/wwzDEEgIuVI</url>    
+   </detalle>    
+   <detalle>    
+      <id>5</id>    
+      <nombre>De nada</nombre>     
+      <fecha>14 de diciembre de 2022</fecha>         
+      <url>https://youtu.be/13l8uIHA45s</url>    
+   </detalle>   
+   <detalle>    
+      <id>6</id>    
+      <nombre>Gracias</nombre>     
+      <fecha>14 de diciembre de 2022</fecha>         
+      <url>https://youtu.be/XNFnc04bmj4</url>    
+   </detalle>  
+   <detalle>    
+      <id>7</id>    
+      <nombre>Hola</nombre>  
+      <fecha>14 de diciembre de 2022</fecha>        
+      <url>https://youtu.be/muRJE4XGT_k</url>    
+   </detalle>  
+   <detalle>    
+      <id>8</id>    
+      <nombre>Mi nombre</nombre>  
+      <fecha>14 de diciembre de 2022</fecha>        
+      <url>https://youtu.be/K--YPtvhR1k</url>    
+   </detalle> 
+   <detalle>    
+      <id>9</id>    
+      <nombre>Permiso</nombre>  
+      <fecha>14 de diciembre de 2022</fecha>        
+      <url>https://youtu.be/l00v9JqJ33k</url>    
+   </detalle> 
+   <detalle>    
+      <id>10</id>    
+      <nombre>Por favor</nombre>  
+      <fecha>14 de diciembre de 2022</fecha>        
+      <url>https://youtu.be/nQJMclpuo1M</url>    
+   </detalle>
+</Palabras>

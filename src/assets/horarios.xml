@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Horarios>
+   <datos>
+      <id>1</id>
+      <nombre>Lunes</nombre>
+      <tiempo>8:00 a.m a 6:00 p.m.</tiempo>
+   </datos>
+
+   <datos>
+      <id>2</id>
+      <nombre>Martes</nombre>
+      <tiempo>8:00 a.m a 6:00 p.m.</tiempo>
+   </datos>
+
+   <datos>
+      <id>3</id>
+      <nombre>Miércoles</nombre>
+      <tiempo>8:00 a.m a 6:00 p.m.</tiempo>
+   </datos>
+
+   <datos>
+      <id>4</id>
+      <nombre>Jueves</nombre>
+      <tiempo>8:00 a.m a 6:00 p.m.</tiempo>
+   </datos>
+
+   <datos>
+      <id>5</id>
+      <nombre>Viernes</nombre>
+      <tiempo>8:00 a.m a 6:00 p.m.</tiempo>
+   </datos>
+
+   <datos>
+      <id>6</id>
+      <nombre>Sábado</nombre>
+      <tiempo>Descanso</tiempo>
+   </datos>
+
+   <datos>
+      <id>7</id>
+      <nombre>Domingo</nombre>
+      <tiempo>Descanso</tiempo>
+   </datos>
+</Horarios>

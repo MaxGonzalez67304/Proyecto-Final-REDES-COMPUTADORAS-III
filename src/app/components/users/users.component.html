@@ -1,0 +1,17 @@
+
+<table class="table table-striped hover" id="datatableexample">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nombre de usuario</th>
+        <th>Contraseña</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of xmlItems; let i = index">    
+        <td>{{item.id}}</td>    
+        <td>{{item.nombre}}</td>    
+        <td>{{item.password}}</td>  
+      </tr>   
+    </tbody>
+  </table>
